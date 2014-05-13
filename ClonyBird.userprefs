@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\BirdMovement.cs">
+    <Files>
+      <File FileName="Assets\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\hi.cs" Line="10" Column="38" />
+      <File FileName="Assets\Script\ScorePoint.cs" Line="13" Column="1" />
+      <File FileName="Assets\Script\BirdMovement.cs" Line="30" Column="4" />
+      <File FileName="Assets\Scorea.cs" Line="4" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
